@@ -1,16 +1,11 @@
+[![dqtx760](https://img.shields.io/badge/dqtx760-github-blue?logo=github)](https://github.com/dqtx760)
+
+He is a programming enthusiast from China who taught himself computer technology. He likes to study open source software and artificial intelligence, and is also involved in the web3 project.
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
-
-#### Email
-sli[at]cumt.edu.cn
-
-#### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+#### Contact
+sphinx30@126.com.\
+[即刻](https://web.okjike.com/u/24236868-c3e9-49ef-ab93-93a60e1a25db)     [推特](https://x.com/dqtx760)     [油管](https://www.youtube.com/@dqtx760/videos)     公众号：大强同学
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
-
+开源线报，人工智能和Web3
