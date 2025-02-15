@@ -4,8 +4,8 @@ He is a programming enthusiast from China who taught himself computer technology
 
 
 #### Contact
-sphinx30@126.com.\
-[即刻](https://web.okjike.com/u/24236868-c3e9-49ef-ab93-93a60e1a25db)     [推特](https://x.com/dqtx760)     [油管](https://www.youtube.com/@dqtx760/videos)     公众号：大强同学
+公众号：大强同学.\
+[即刻](https://web.okjike.com/u/24236868-c3e9-49ef-ab93-93a60e1a25db)     [推特](https://x.com/dqtx760)     [油管](https://www.youtube.com/@dqtx760/videos)     
 
 #### Research Interests
 开源线报，人工智能和Web3
