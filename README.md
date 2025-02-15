@@ -8,7 +8,7 @@
 # A simple Github Pages template for academic personal website.
 
 ## Preview
-[![Screenshot of the Website](https://pbs.twimg.com/media/Gj2EmvMbEAAEK_Q?format=jpg&name=small)](https://senli1073.github.io/)
+[![Screenshot of the Website](https://pbs.twimg.com/media/Gj2EmvMbEAAEK_Q?format=jpg&name=small)](https://dqtx760.github.io/)
 
 
 ## Introduction
